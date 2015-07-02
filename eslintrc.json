@@ -1,7 +1,7 @@
 {
   "ecmaFeatures": {
     "jsx": true
-  },e
+  },
 
   "plugins": [
     "react"
