@@ -12,7 +12,7 @@
   },
   "peerDependencies": {
     "eslint-plugin-react": ">=2.7.1",
-    "eslint": ">=0.24.1 || ^1.0.0-rc-0"
+    "eslint": ">=0.24.1"
   },
   "devDependencies": {
     "tape": "^4.0.0"
