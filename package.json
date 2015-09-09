@@ -11,8 +11,7 @@
     "url": "https://github.com/feross/eslint-config-standard-react/issues"
   },
   "peerDependencies": {
-    "eslint-plugin-react": ">=2.7.1",
-    "eslint": ">=0.24.1"
+    "eslint-plugin-react": ">=2.7.1"
   },
   "devDependencies": {
     "tape": "^4.0.0"
