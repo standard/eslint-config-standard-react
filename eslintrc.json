@@ -11,6 +11,7 @@
     "jsx-quotes": [2, "prefer-single"],
     "react/display-name": 0,
     "react/jsx-boolean-value": 2,
+    "react/jsx-no-duplicate-prop": 2,
     "react/jsx-no-undef": 2,
     "react/jsx-sort-prop-types": 0,
     "react/jsx-sort-props": 0,
