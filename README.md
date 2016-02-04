@@ -3,11 +3,11 @@
 [![npm][npm-image]][npm-url]
 [![downloads][downloads-image]][downloads-url]
 
-[travis-image]: https://img.shields.io/travis/feross/eslint-config-standard-react.svg?style=flat
+[travis-image]: https://img.shields.io/travis/feross/eslint-config-standard-react/master.svg
 [travis-url]: https://travis-ci.org/feross/eslint-config-standard-react
-[npm-image]: https://img.shields.io/npm/v/eslint-config-standard-react.svg?style=flat
+[npm-image]: https://img.shields.io/npm/v/eslint-config-standard-react.svg
 [npm-url]: https://npmjs.org/package/eslint-config-standard-react
-[downloads-image]: https://img.shields.io/npm/dm/eslint-config-standard-react.svg?style=flat
+[downloads-image]: https://img.shields.io/npm/dm/eslint-config-standard-react.svg
 [downloads-url]: https://npmjs.org/package/eslint-config-standard-react
 
 #### An ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs) for React/JSX support in [JavaScript Standard Style](https://github.com/feross/standard)
@@ -69,10 +69,10 @@ let people know that your code is using the standard style.
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 ```
 
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://github.com/feross/standard)
 
 ```markdown
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://github.com/feross/standard)
 ```
 
 ## Learn more
