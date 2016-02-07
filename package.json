@@ -50,6 +50,7 @@
   "license": "MIT",
   "main": "index.js",
   "peerDependencies": {
+    "eslint": "^2.0.0-rc.0",
     "eslint-plugin-react": ">=2.7.1"
   },
   "repository": {
