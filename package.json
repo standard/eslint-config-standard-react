@@ -14,7 +14,7 @@
     "eslint-config-standard-jsx": "^1.0.0"
   },
   "devDependencies": {
-    "eslint": "^2.0.0-rc.0",
+    "eslint": "^2.1.0",
     "eslint-plugin-react": ">=2.7.1",
     "tape": "^4.0.0"
   },
