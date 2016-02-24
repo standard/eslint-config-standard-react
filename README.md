@@ -35,7 +35,7 @@ provided in `eslint-config-standard`.
 Here's how to install everything you need:
 
 ```bash
-npm install eslint-config-standard eslint-config-standard-react eslint-plugin-react
+npm install eslint-config-standard eslint-config-standard-react eslint-config-standard-jsx eslint-plugin-react
 ```
 
 Then, add this to your .eslintrc file:
