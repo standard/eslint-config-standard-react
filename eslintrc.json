@@ -17,14 +17,14 @@
   ],
 
   "rules": {
-    "react/jsx-no-bind": [2, {
+    "react/jsx-no-bind": ["error", {
       "allowArrowFunctions": true,
       "allowBind": false,
       "ignoreRefs": true
     }],
-    "react/no-did-update-set-state": 2,
-    "react/no-unknown-property": 2,
-    "react/prop-types": 2,
-    "react/react-in-jsx-scope": 2
+    "react/no-did-update-set-state": "error",
+    "react/no-unknown-property": "error",
+    "react/prop-types": "error",
+    "react/react-in-jsx-scope": "error"
   }
 }
