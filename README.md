@@ -1,7 +1,4 @@
-# Standard React - ESLint Shareable Config
-[![travis][travis-image]][travis-url]
-[![npm][npm-image]][npm-url]
-[![downloads][downloads-image]][downloads-url]
+# eslint-config-standard-react [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url]
 
 [travis-image]: https://img.shields.io/travis/feross/eslint-config-standard-react/master.svg
 [travis-url]: https://travis-ci.org/feross/eslint-config-standard-react
@@ -9,6 +6,8 @@
 [npm-url]: https://npmjs.org/package/eslint-config-standard-react
 [downloads-image]: https://img.shields.io/npm/dm/eslint-config-standard-react.svg
 [downloads-url]: https://npmjs.org/package/eslint-config-standard-react
+[standard-image]: https://img.shields.io/badge/code_style-standard-brightgreen.svg
+[standard-url]: https://standardjs.com
 
 #### An ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs) for React/JSX support in [JavaScript Standard Style](https://github.com/feross/standard)
 
