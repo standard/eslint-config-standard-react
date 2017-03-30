@@ -11,11 +11,11 @@
 
 #### An ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs) for React/JSX support in [JavaScript Standard Style](https://github.com/feross/standard)
 
-This module is for advanced users. You probably want to use [`standard`](https://github.com/feross/standard) instead :)
-
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
 ## Install
+
+This module is for advanced users. You probably want to use [`standard`](https://github.com/feross/standard) instead :)
 
 ```bash
 npm install eslint-config-standard-react
