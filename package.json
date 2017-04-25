@@ -50,8 +50,8 @@
   "license": "MIT",
   "main": "index.js",
   "peerDependencies": {
-    "eslint": ">=3.0.0",
     "eslint-plugin-react": ">=2.7.1"
+    "eslint": ">=3.19.0",
   },
   "repository": {
     "type": "git",
