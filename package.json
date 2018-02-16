@@ -14,8 +14,8 @@
     "eslint-config-standard-jsx": "^4.0.2"
   },
   "devDependencies": {
-    "eslint": "^3.19.0",
-    "eslint-plugin-react": "^6.10.3",
+    "eslint": "^4.16.0",
+    "eslint-plugin-react": "^7.6.1",
     "tape": "^4.6.3"
   },
   "homepage": "https://github.com/feross/eslint-config-standard-react",
