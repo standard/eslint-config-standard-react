@@ -34,13 +34,14 @@ provided in `eslint-config-standard`.
 Here's how to install everything you need:
 
 ```bash
-npm install --save-dev eslint-config-standard eslint-config-standard-react eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node eslint-plugin-react
+npm install --save-dev babel-eslint eslint-config-standard eslint-config-standard-react eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node eslint-plugin-react
 ```
 
-Then, add this to your .eslintrc file:
+Then, add this to your `.eslintrc` file:
 
 ```
 {
+  "parser": ["babel-eslint"],
   "extends": ["standard", "standard-react"]
 }
 ```
