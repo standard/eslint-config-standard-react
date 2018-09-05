@@ -41,7 +41,7 @@ Then, add this to your `.eslintrc` file:
 
 ```
 {
-  "parser": ["babel-eslint"],
+  "parser": "babel-eslint",
   "extends": ["standard", "standard-react"]
 }
 ```
