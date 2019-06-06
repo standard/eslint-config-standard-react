@@ -34,7 +34,7 @@ provided in `eslint-config-standard`.
 Here's how to install everything you need:
 
 ```bash
-npm install --save-dev eslint-config-standard eslint-config-standard-react eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node eslint-plugin-react
+npx install-peerdeps eslint-config-standard-react
 ```
 
 Then, add this to your .eslintrc file:
