@@ -11,10 +11,10 @@
     "url": "https://github.com/feross/eslint-config-standard-react/issues"
   },
   "dependencies": {
-    "eslint-config-standard-jsx": "^6.0.2"
+    "eslint-config-standard-jsx": "^7.0.0"
   },
   "devDependencies": {
-    "eslint": "^5.0.0",
+    "eslint": "^6.0.1",
     "eslint-plugin-react": "^7.6.1",
     "tape": "^4.8.0"
   },
