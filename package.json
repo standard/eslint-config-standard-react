@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-standard-react",
   "description": "JavaScript Standard Style React/JSX support - ESLint Shareable Config",
-  "version": "9.0.0",
+  "version": "9.1.0",
   "author": {
     "name": "Feross Aboukhadijeh",
     "email": "feross@feross.org",
