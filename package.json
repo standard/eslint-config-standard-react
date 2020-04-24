@@ -16,7 +16,7 @@
   "devDependencies": {
     "eslint": "^6.2.2",
     "eslint-plugin-react": "^7.6.1",
-    "tape": "^4.8.0"
+    "tape": "^5.0.0"
   },
   "homepage": "https://github.com/feross/eslint-config-standard-react",
   "keywords": [
