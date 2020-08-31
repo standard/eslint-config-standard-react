@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-standard-react",
   "description": "JavaScript Standard Style React/JSX support - ESLint Shareable Config",
-  "version": "9.2.0",
+  "version": "10.0.0",
   "author": {
     "name": "Feross Aboukhadijeh",
     "email": "feross@feross.org",
@@ -18,6 +18,10 @@
     "eslint-plugin-react": "^7.20.6",
     "eslint-plugin-react-hooks": "^4.1.0",
     "tape": "^5.0.1"
+  },
+  "peerDependencies": {
+    "eslint": ">=7.7.0",
+    "eslint-plugin-react": ">=7.20.6"
   },
   "homepage": "https://github.com/feross/eslint-config-standard-react",
   "keywords": [
@@ -50,10 +54,6 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "peerDependencies": {
-    "eslint": ">=7.7.0",
-    "eslint-plugin-react": ">=7.20.6"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/feross/eslint-config-standard-react.git"
