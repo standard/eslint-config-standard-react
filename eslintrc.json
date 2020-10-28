@@ -17,10 +17,6 @@
     "react"
   ],
 
-  "extends": [
-    "standard-jsx"
-  ],
-
   "rules": {
     "react/jsx-no-bind": ["error", {
       "allowArrowFunctions": true,
