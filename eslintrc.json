@@ -14,7 +14,8 @@
   },
 
   "plugins": [
-    "react"
+    "react",
+    "react-hooks"
   ],
 
   "rules": {
@@ -27,6 +28,8 @@
     "react/no-unknown-property": "error",
     "react/no-unused-prop-types": "error",
     "react/prop-types": "error",
-    "react/react-in-jsx-scope": "error"
+    "react/react-in-jsx-scope": "error",
+    "react-hooks/rules-of-hooks": "error",
+    "react-hooks/exhaustive-deps": "error"
   }
 }
