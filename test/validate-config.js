@@ -1,16 +1,15 @@
-const eslint = require('eslint')
+const { ESLint } = require('eslint')
 const test = require('tape')
+const config = require('../eslintrc.json')
+const path = require('path')
 
-test('load config in eslint to validate all rule syntax is correct', function (t) {
-  const CLIEngine = eslint.CLIEngine
-
-  const cli = new CLIEngine({
+test('load config in eslint to validate all rule syntax is correct', async function (t) {
+  const eslint = new ESLint({
     useEslintrc: false,
-    configFile: 'eslintrc.json'
+    baseConfig: config
   })
+  const results = await eslint.lintFiles(path.resolve(__dirname, '../TestComponent.jsx'))
 
-  const code = 'var foo = 1\nvar bar = function () {}\nbar(foo)\n'
-
-  t.equal(cli.executeOnText(code).errorCount, 0)
+  t.equal(results[0].errorCount, 0)
   t.end()
 })
