@@ -8,14 +8,14 @@
     "url": "https://feross.org"
   },
   "bugs": {
-    "url": "https://github.com/feross/eslint-config-standard-react/issues"
+    "url": "https://github.com/standard/eslint-config-standard-react/issues"
   },
   "devDependencies": {
     "eslint": "^8.8.0",
     "eslint-plugin-react": "^7.28.0",
     "tape": "^5.5.0"
   },
-  "homepage": "https://github.com/feross/eslint-config-standard-react",
+  "homepage": "https://github.com/standard/eslint-config-standard-react",
   "keywords": [
     "JavaScript Standard Style",
     "check",
@@ -52,7 +52,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/feross/eslint-config-standard-react.git"
+    "url": "git://github.com/standard/eslint-config-standard-react.git"
   },
   "scripts": {
     "test": "tape test/*.js"
